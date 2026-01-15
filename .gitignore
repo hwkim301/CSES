@@ -1,0 +1,12 @@
+*
+!*/
+!*.cpp
+!*.h
+!*.md
+!.gitignore
+!*.py
+
+*.out
+*.exe
+*.o
+*.obj
